@@ -64,7 +64,7 @@ TableView {
         id:bar
        anchors.top:tableview.bottom
        width:mm.width
-      value:0.5
+      value:0
     }
 
     GridView {
